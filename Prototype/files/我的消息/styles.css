@@ -868,3 +868,30 @@
   width:64px;
   word-wrap:break-word;
 }
+#u74 {
+  position:absolute;
+  left:240px;
+  top:253px;
+  width:300px;
+  height:96px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u75 {
+  position:absolute;
+  left:240px;
+  top:390px;
+  width:300px;
+  height:168px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u76 {
+  position:absolute;
+  left:240px;
+  top:590px;
+  width:300px;
+  height:109px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

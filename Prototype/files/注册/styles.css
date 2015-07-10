@@ -574,3 +574,28 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u54 {
+  position:absolute;
+  left:376px;
+  top:200px;
+  width:27px;
+  height:15px;
+  font-family:'Tahoma Normal', 'Tahoma';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u54_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:27px;
+  height:15px;
+}
+#u55 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:27px;
+  white-space:nowrap;
+}
